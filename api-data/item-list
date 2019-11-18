@@ -1,0 +1,12 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "HOT-ITEM",
+    "itemImg": [ "chair1", "chair2", "chair3", "chair4", "chair5" , "chair6" , "chair7" ]
+  },
+  {
+     "itemId": 2,
+    "itemName": "NEW-ITEM",
+    "itemImg": [ "chair1", "chair2", "chair3", "chair4", "chair5" , "chair6" , "chair7" ]
+  }
+  ]
