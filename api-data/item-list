@@ -2,11 +2,11 @@
   {
     "itemId": 1,
     "itemName": "HOT-ITEM",
-    "itemImg": [ "chair1", "chair2", "chair3", "chair4", "chair5" , "chair6" , "chair7" ]
+    "itemImg": [ "chair1.png", "chair2.png", "chair3.png", "chair4.png", "chair5.png" , "chair6.png" , "chair7.png" ]
   },
   {
      "itemId": 2,
     "itemName": "NEW-ITEM",
-    "itemImg": [ "chair1", "chair2", "chair3", "chair4", "chair5" , "chair6" , "chair7" ]
+    "itemImg": [ "luke.png", "chubaka.png", "boba.png", "c3po.png", "leia.png" , "obi.png" , "r2d2.png", "storm.png", "varder.png", "yoda.png", "yolo.png" ]
   }
   ]
